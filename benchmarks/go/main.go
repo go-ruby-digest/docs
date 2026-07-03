@@ -3,12 +3,11 @@ package main
 
 import "github.com/go-ruby-digest/digest"
 
-func hexOf(name string, data []byte) string {
-	d := must(name)
-	d.Update(data)
-	return d.HexFinish()
-}
-func must(name string) digest.Digest { d, _ := digest.New(name); return d }
+// hexOf is the exact Go analogue of Ruby's Digest::ALGO.hexdigest(data): the
+// library's class one-shot HexSum, which the Ruby side calls verbatim. (The
+// earlier New+Update+HexFinish spelling was a hand-inlined expansion of the same
+// call; HexSum is the documented one-shot and the allocation-minimal hot path.)
+func hexOf(name string, data []byte) string { s, _ := digest.HexSum(name, data); return s }
 
 func main() {
 	data := detBytes(4096)
