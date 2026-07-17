@@ -1,4 +1,8 @@
 github.com/go-ruby-digest/digest v0.0.0-20260703174235-bdc170abeca6 h1:j9QYLqQHcl6ClaUYiRVsi/miNdXKgZRrrVYNZLLHqGE=
 github.com/go-ruby-digest/digest v0.0.0-20260703174235-bdc170abeca6/go.mod h1:Et3sL9ojvqpOBFth/n1pryhkJzr9DvYYQ23g3rUJ0N4=
+github.com/go-ruby-digest/digest v0.0.0-20260717064055-3bb001e21110 h1:ralyxp58rAW6cgw+ettN/0wQPYHZefJaqQK0gCIvED4=
+github.com/go-ruby-digest/digest v0.0.0-20260717064055-3bb001e21110/go.mod h1:i6MSdtzHrCTMJk2OXhGoY+WveaFVWwbp7TFT4PiS/yU=
 golang.org/x/crypto v0.53.0 h1:QZ4Muo8THX6CizN2vPPd5fBGHyogrdK9fG4wLPFUsto=
 golang.org/x/crypto v0.53.0/go.mod h1:DNLU434OwVakk9PzuwV8w62mAJpRJL3vsgcfp4Qnsio=
+golang.org/x/crypto v0.54.0 h1:YLIA59K4fiNzHzjnZt2tUJQjQtUWfWbeHBqKtk3eScw=
+golang.org/x/crypto v0.54.0/go.mod h1:KWL8ny2AZdGR2cWmzeHrp2azQPGogOv+HeQaVEXC2dk=
