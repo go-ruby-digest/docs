@@ -6,6 +6,8 @@ github.com/go-ruby-digest/digest v0.0.0-20260903192710-f831cb18da00 h1:sSXMflvqS
 github.com/go-ruby-digest/digest v0.0.0-20260903192710-f831cb18da00/go.mod h1:k+KU6sWXxDnfKAyygqyp+vaDJBnXHvi9hGvgSbRD/o0=
 github.com/go-ruby-digest/digest v0.0.0-20260916092355-76988b665a30 h1:/WSzZcSMfffRitpZSctZ/5LVlRgEGyLrcbzCtf0hFcM=
 github.com/go-ruby-digest/digest v0.0.0-20260916092355-76988b665a30/go.mod h1:PLkd1cts5/qufkr8BvU6UmcEcfnXWPqSmE/uR1gmaQ8=
+github.com/go-ruby-digest/digest v0.0.0-20261025191044-9abd0196bf5e h1:6T48PIfFhtj5Ox2PiwAdIQPnLatCv1wCjBwJ143X+wQ=
+github.com/go-ruby-digest/digest v0.0.0-20261025191044-9abd0196bf5e/go.mod h1:nqCbjilWR5bGJ8pP5rXmseYeHU3aXwe4XOGfk6HNvm0=
 golang.org/x/crypto v0.53.0 h1:QZ4Muo8THX6CizN2vPPd5fBGHyogrdK9fG4wLPFUsto=
 golang.org/x/crypto v0.53.0/go.mod h1:DNLU434OwVakk9PzuwV8w62mAJpRJL3vsgcfp4Qnsio=
 golang.org/x/crypto v0.55.0 h1:+KWHjbgOaAQ66dh/YlkZKHlz9ZUlq61AFirAR9ntP8M=
@@ -14,3 +16,5 @@ golang.org/x/crypto v0.56.0 h1:GUh5Ii4J5jtcseSMiRqr1jXCNHoxjeV9Fmekc2oLy6Y=
 golang.org/x/crypto v0.56.0/go.mod h1:OMW5y6CY9l38uPLmxU6l6pwcXp1obtLo3e6gT7gQR2I=
 golang.org/x/crypto v0.57.0 h1:3ZVCjf8Ggz7zneR/EHRVx68Ctf+2pmIMP2UFhh9cC6M=
 golang.org/x/crypto v0.57.0/go.mod h1:Fdz0i5U6CoizGwLda9DttjSk6qlZo25zYNtR+ycvuZA=
+golang.org/x/crypto v0.58.0 h1:COkYLr4k7nDI4r6QtMML2AfzeIswWHAJthLS6K/M/54=
+golang.org/x/crypto v0.58.0/go.mod h1:Xh+kl5A+M0gMiWDytH2Hhr5Z7WbNCpv/eB/EFgfSk+w=
